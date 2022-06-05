@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @khaihern
-- 👀 I’m interested in exploring projects for ReactJS & Nodejs!
+- 👋 Hi, I’m @khaihern, I have a portfolio at https://khaihernlow.netlify.app
+- 👀 I’m interested in exploring projects for ReactJS & Nodejs (MERN stack)!
 - 🌱 I’m currently learning ReactJS framework and building out Web Apps!
 - 💞️ I’m looking to collaborate on anything that interests you and is looking forward to working with me on! :-)
 - 📫 How to reach me? Send me an email at khaihernlow@gmail.com
